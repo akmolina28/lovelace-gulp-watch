@@ -3,7 +3,7 @@ Automatically update the modified date on ui-lovelace.yaml when another lovelace
 
 This tool runs in the background and watches for changes in a configurable location(s), and touches ui-lovelace.yaml when triggered.
 
-[screenshot](screenshot.png)
+![screenshot](screenshot.png)
 
 ## Installation
 
