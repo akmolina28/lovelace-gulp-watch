@@ -1,0 +1,4 @@
+{
+  "watch_path": ["./config/lovelace/**/*.yaml"],
+  "ui_lovelace_path": "./config/ui-lovelace.yaml"
+}

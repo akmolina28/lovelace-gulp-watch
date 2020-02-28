@@ -1,0 +1,17 @@
+{
+  "name": "lovelace-watch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-touch-cmd": "0.0.1",
+    "gulp-watch": "^5.0.1"
+  }
+}
