@@ -1,7 +1,5 @@
 # lovelace-gulp-watch
 
-![screenshot](screenshot.png)
-
 Automatically update the modified date on ui-lovelace.yaml when another lovelace file changes. This is useful if you prefer splitting your lovelace config into multiple files with the use of !include, because HomeAssistant will not refresh the UI unless ui-lovelace.yaml is modified.
 
 
@@ -10,6 +8,8 @@ This tool runs in the background and watches for changes in a configurable locat
 ## *New*
 
 Added support for [lovelace dashboards](https://www.home-assistant.io/lovelace/dashboards-and-views/)
+
+![screenshot](screenshot.png)
 
 ## Installation
 
