@@ -21,7 +21,7 @@ Added support for [lovelace dashboards](https://www.home-assistant.io/lovelace/d
     > npm install -g gulp
     ```
 
-3. Clone the repo if you haven't already
+3. Clone the repo or download the source code from the latest release
 
     ```
     > git clone https://github.com/akmolina28/lovelace-gulp-watch.git
